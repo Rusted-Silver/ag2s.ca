@@ -28,7 +28,7 @@ https://github.com/alex-shpak/hugo-book
 
 
   <script defer src="/spellbook/fuse.min.js"></script>
-  <script defer src="/spellbook/en.search.min.5ba98d1a9d6abff7b5da47d3a9a39a720a0e32df83c349f0e060f2b59a2c20ca.js" integrity="sha256-W6mNGp1qv/e12kfTqaOacgoOMt&#43;Dw0nw4GDytZosIMo=" crossorigin="anonymous"></script>
+  <script defer src="/spellbook/en.search.min.66c4c5a060d752a4acf3394d79e03deddc46243ad6e3abfd9a70496da74b4e51.js" integrity="sha256-ZsTFoGDXUqSs8zlNeeA97dxGJDrW46v9mnBJbadLTlE=" crossorigin="anonymous"></script>
 
 
 
@@ -89,7 +89,31 @@ https://github.com/alex-shpak/hugo-book
     </h3>
   </main>
 
-  
+  <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    
+    const pageKey = "checkbox:" + window.location.pathname;
+
+    const checkboxes = Array.from(
+      document.querySelectorAll('input[type="checkbox"]')
+    ).filter(cb => !cb.hasAttribute("id"));
+
+    checkboxes.forEach((checkbox, index) => {
+      checkbox.removeAttribute("disabled");
+      checkbox.style.cursor = "pointer";
+
+      
+      
+      const saved = localStorage.getItem(`${pageKey}:${index}`);
+      if (saved === "true") checkbox.checked = true;
+
+      checkbox.addEventListener("change", () => {
+        localStorage.setItem(`${pageKey}:${index}`, checkbox.checked);
+      });
+    });
+  });
+</script>
+
 </body>
 
 </html>

@@ -6,19 +6,21 @@
   </url><url>
     <loc>https://ag2s.ca/spellbook/02.-active-recon/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/dom-based-attacks/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/deserialization/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/deserialization/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/04.-initial-access/</loc>
   </url><url>
@@ -44,13 +46,15 @@
   </url><url>
     <loc>https://ag2s.ca/spellbook/10.-lateral-movement/</loc>
   </url><url>
+    <loc>https://ag2s.ca/spellbook/</loc>
+  </url><url>
     <loc>https://ag2s.ca/spellbook/file-transfer/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/misc/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/password-crack/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/01.-passive-recon/bug-bounty-dorks/</loc>
   </url><url>
@@ -64,149 +68,163 @@
   </url><url>
     <loc>https://ag2s.ca/spellbook/02.-active-recon/port-scan/</loc>
   </url><url>
+    <loc>https://ag2s.ca/spellbook/02.-active-recon/s3-bucket-enumeration/</loc>
+  </url><url>
     <loc>https://ag2s.ca/spellbook/02.-active-recon/web---assets-enumeration/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/110995-tcp---pop3/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/code-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/1151-tcp---oracle-db/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/dom-based-attacks/cookie-manipulation/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/143993-tcp---imap/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/dom-based-attacks/dom-clobbering/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/1433-tcp---mssql/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/dom-based-attacks/open-redirect/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/1611621016110162-udp---snmp/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/dom-based-attacks/web-messages-vulnerabilities/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/2049-tcp---nfs/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/file-upload/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/21-tcp---ftp/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/graphql/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/25465587-tcp---smtp/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/idor---insecure-direct-object-references/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/27017-tcp---mongodb/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/lfi---local-file-inclusion/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/3306-tcp---mysql/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/sqli---sql-injection/boolean-and-time/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/4222-tcp---nats/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/sqli---sql-injection/error/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/445-tcp---smb/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/sqli---sql-injection/out-of-band-dns-exfiltration/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/623-udp---ipmi/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/sqli---sql-injection/union/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/basic-http-auth/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/ssrf---server-side-request-forgery/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/blind-sqli/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/ssti---server-side-template-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/code-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/websocket/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/csrf/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/content-security-policies/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/file-upload/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/dompurify/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/graphql/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/httponly-cookie-attribute/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/idor/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/same-origin-policy/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/jwt/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xss---cross-site-scripting/waf/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/lfi/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/common-vulnerability/xxe---xml-external-entity/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/oauth/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/http-common-sense/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/pdf-generation-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/https-exfiltration-server/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/saml/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/cache-poisoning/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/sql-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/crlf-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/ssrf/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/hosts-header-attacks/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/template-injection-ssti/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/jwt/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/websocket/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/ldap-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/xss/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/mongodb-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/common-vulnerability/xxe/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/oauth/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/http-common-sense/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/padding-oracles/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/https-exfiltration-server/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/pdf-generation-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/cache-poisoning/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/request-smuggling/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/crlf-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/saml/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/hosts-header-attacks/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/session-puzzling/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/ldap-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/ssi-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/mongodb-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/tls-ssl-attacks/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/padding-oracles/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/xpath-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/request-smuggling/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/rare-vulnerabilities/xslt-injection/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/session-puzzling/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/scripts/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/ssi-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/drupal/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/tls-ssl-attacks/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/gitlab/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/xpath-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/jenkins/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/rare-vulnerabilities/xslt-injection/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/joomla/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/scripts/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/nexus-repository-manager/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/drupal/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/prtg/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/gitlab/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/splunk/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/jenkins/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/tomcat/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/joomla/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webapps-specific/wordpress/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/nexus-repository-manager/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/webshells/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/prtg/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/decompilation-tools/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/splunk/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/deserialization/asp.net/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/tomcat/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/deserialization/php/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webapps-specific/wordpress/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/deserialization/python/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/webshells/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/iis-installation/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/decompilation-tools/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/prototype-pollution/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/deserialization/asp.net/</loc>
+    <loc>https://ag2s.ca/spellbook/03.-web-pentesting/whitebox/type-juggling/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/deserialization/introduction/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/110995-tcp---pop3/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/deserialization/php/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/1151-tcp---oracle-db/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/deserialization/python/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/143993-tcp---imap/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/iis-installation/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/1433-tcp---mssql/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/prototype-pollution/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/1611621016110162-udp---snmp/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/80443-tcp-http/whitebox/type-juggling/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/2049-tcp---nfs/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/873-tcp---rsync/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/21-tcp---ftp/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/default-credentials/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/25465587-tcp---smtp/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/03.-enumeration/r-services/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/27017-tcp---mongodb/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/04.-initial-access/rdp/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/3306-tcp---mysql/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/04.-initial-access/smb/</loc>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/3389-tcp---rdp/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/4222-tcp---nats/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/445-tcp---smb/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/59855986-tcp---winrm/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/623-udp---ipmi/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/873-tcp---rsync/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/default-credentials/</loc>
+  </url><url>
+    <loc>https://ag2s.ca/spellbook/04.-initial-access/r-services/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/04.-initial-access/timeroasting/</loc>
-  </url><url>
-    <loc>https://ag2s.ca/spellbook/04.-initial-access/winrm/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/05.-defense-evasion/applocker/</loc>
   </url><url>
@@ -342,8 +360,6 @@
   </url><url>
     <loc>https://ag2s.ca/spellbook/10.-lateral-movement/runas/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/</loc>
-  </url><url>
     <loc>https://ag2s.ca/spellbook/file-transfer/edge-cases/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/file-transfer/encrypted-transfer/</loc>
@@ -351,8 +367,6 @@
     <loc>https://ag2s.ca/spellbook/file-transfer/linux-target/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/file-transfer/nginx/</loc>
-  </url><url>
-    <loc>https://ag2s.ca/spellbook/file-transfer/rdp/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/file-transfer/windows-target/</loc>
   </url><url>
@@ -370,23 +384,23 @@
   </url><url>
     <loc>https://ag2s.ca/spellbook/password-crack/john/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/cewl/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/cewl/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/metasploit/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/metasploit/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/nodejs/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/nodejs/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/openssl/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/openssl/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/powershell/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/powershell/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/sed/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/sed/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/shell-fu/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/shell-fu/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/sql-syntax/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/sql-syntax/</loc>
   </url><url>
-    <loc>https://ag2s.ca/spellbook/syntax-cheatsheets/sqlmap/</loc>
+    <loc>https://ag2s.ca/spellbook/tools-cheatsheets/sqlmap/</loc>
   </url><url>
     <loc>https://ag2s.ca/spellbook/categories/</loc>
   </url><url>
